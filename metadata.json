@@ -1,0 +1,6 @@
+{
+  "name": "Word Scramble Mystery",
+  "description": "Unscramble daily word clues to uncover and reveal a hidden secret message.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
